@@ -13,3 +13,4 @@
 - **HTML** – Markup structure
 - **CSS** – Styling and basic animations
 - **JavaScript (practiced DOM concept in js)** – Game logic and interactivity
+---
