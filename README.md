@@ -1,3 +1,4 @@
+---
 # simonSays
 
 ## 🚀 How to Play
